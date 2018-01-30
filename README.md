@@ -13,4 +13,10 @@ The UI implements AutoLayouts as well as VFL (Visual Format Language) to help se
 
 Implemented a unit test to test the network connectivity.
 
-please run pod update. I integrated AlamoFire but didn't really use it. I wanted to show that I can integrate pod libraries...
+please run pod update. I integrated AlamoFire but didn't really use it. I wanted to show that I can integrate pod libraries. You may need to update the project settings so you don't see any warnings. There should be zero warnings in the app.
+
+If there are any issues with the project please feel free to email me on wael.saad@hotmail.com or contact me on 0433 597 200
+
+I am a very passionate iOS developer and I am really keen to join SunCorp team if there is an oppurtunity to do so.
+
+Thank you
